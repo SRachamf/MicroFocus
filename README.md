@@ -1,2 +1,2 @@
 # MicroFocus
-For checking Autobank..1 2 3
+For checking Autobank.. jenkins + git
