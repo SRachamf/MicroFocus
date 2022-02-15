@@ -87,7 +87,7 @@
         <tempfile property="temp.file" destdir="." prefix="script" suffix="${shell.ext}"/>
         <touch file="${temp.file}"/>
         <echo file="${temp.file}" append="false">${script.header}
-copy C:\Users\System\loadlib\*.* C:\Users\System\loadlib
+cd  C:\Users\System\loadlib
         </echo>
         <chmod file="${temp.file}" perm="ugo+rx"/>
         <exec dir="." executable="${shell}" failonerror="true">
