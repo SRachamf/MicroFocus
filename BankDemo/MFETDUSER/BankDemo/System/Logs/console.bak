@@ -1,0 +1,123 @@
+120227 11351570                     CASCD0100I ES Threaded Daemon Initialized (Ver CAS 2.0.00) process-id = 776 11:35:15
+120227 11351573                     CASCD0099I ES Build Tag: ED2.0/20120215b 11:35:15
+120227 11351657                     CASCD0120I Server manager created for ES BANKDEMO, process-id = 1928 11:35:16
+120227 11351741       1928 BANKDEMO CASSI0000I Server manager initialization started 11:35:17
+120227 11351942       1928 BANKDEMO CASSI4005I Retrieving ES configuration from MFDS (192.168.1.78:86) 11:35:19
+120227 11352143       1928 BANKDEMO CASSI1802I Dynamic debug attachment permitted 11:35:20
+120227 11352164       1928 BANKDEMO CASSI0012I Region running in 32 bit mode 11:35:21
+120227 11352184       1928 BANKDEMO CASSE0011I Region is running with Resource security disabled. 11:35:21
+120227 11352224       1928 BANKDEMO CASSI0001I Region will use SYSID CICV 11:35:22
+120227 11352255                     CASCD1075I ES TSC Service Process created for Server BANKDEMO, process-id = 2732 11:35:22
+120227 11352281                     CASCD0127I SEP 00001 created for ES BANKDEMO, process-id = 3384 11:35:22
+120227 11352288                     CASCD0127I SEP 00002 created for ES BANKDEMO, process-id = 2660 11:35:22
+120227 11352289       2732 BANKDEMO CASTS0007I ES TSC Service Process initialization started 11:35:22
+120227 11352297                     CASCD0128I 3270 printer created for server BANKDEMO, process-id = 3500 11:35:22
+120227 11352363       2732 BANKDEMO CASTS5015I ES TSC Log and Intra-Partition TS/TD: C:\MFETDUSER\BANKDEMO\SYSTEM\logs\LOGTSTDQ.dat 11:35:23
+120227 11352363       2660 BANKDEMO CASSI1500I SEP initialization started 11:35:23
+120227 11352364       3500 BANKDEMO CASSI2000I 3270 printer initialization started 11:35:23
+120227 11352365       3384 BANKDEMO CASSI1500I SEP initialization started 11:35:23
+120227 11352370                     CASCD1038I ES Communications Server created, ES BANKDEMO, process-id = 2692 11:35:23
+120227 11352372       2732 BANKDEMO CASTS5016I ES TSC Log and Intra-Partition TS/TD File size:     32 blocks (    2,016,724 bytes) 11:35:23
+120227 11352377       1928 BANKDEMO CASKC1000I ES concurrent request limit: 0000000010 11:35:23
+120227 11352380       2732 BANKDEMO CASTS5017I ES TSC Log and Intra-Partition TS/TD running with  1 buffers of 63,020 bytes each 11:35:23
+120227 11352385       1928 BANKDEMO CASSI1000I Server Manager initialization completed successfully 11:35:23
+120227 11352409       3500 BANKDEMO CASSI2001I 3270 printer initialization completed successfully 11:35:23
+120227 11352412       2732 BANKDEMO CASTS0002I ES TSC Service Process initialization complete 11:35:23
+120227 11352433       2660 BANKDEMO CASSI1425I TS non-recoverable cold started 11:35:24
+120227 11352434       2692 BANKDEMO CASCS5001I Communications interface 01 initialization started 11:35:24
+120227 11352435       2660 BANKDEMO CASSI1425I TS recoverable cold started 11:35:24
+120227 11352456       2660 BANKDEMO CASSI1426I TD non-recoverable cold started 11:35:24
+120227 11352458       2692 BANKDEMO CASCS5003I Communications interface 01 initialization complete 11:35:24
+120227 11352459       2660 BANKDEMO CASSI1426I TD recoverable cold started 11:35:24
+120227 11352480       1928 BANKDEMO JES000051I Job Entry Subsystem (JES) services initialized 11:35:24
+120227 11352482       2660 BANKDEMO CASSI1600I SEP initialization completed successfully 11:35:24
+120227 11352484                     CASCD1060I JES Initiator created for Server BANKDEMO, process-id = 2316 11:35:24
+120227 11352508       1928 BANKDEMO CASBJ0023I Batch initiator INITAB: class(es) "AB" 11:35:24
+120227 11352531       2660 BANKDEMO CASFC0009I User (CICSUSER) requested (OPEN)  on file (BNKTXN) group (BANKFIL2) from Tran (Unknown) Program (Unknown) Terminal (Unknown). 11:35:25
+120227 11352533       2316 BANKDEMO CASBJ0006I Batch initiator initialization started 11:35:25
+120227 11352535                     CASCD1062I JES Printer created for Server BANKDEMO, process-id = 3116 11:35:25
+120227 11352542       2660 BANKDEMO CASFC0009I User (CICSUSER) requested (OPEN)  on file (BNKATYPE) group (BANKFIL2) from Tran (Unknown) Program (Unknown) Terminal (Unknown). 11:35:25
+120227 11352548       1928 BANKDEMO CASBJ0022I Batch printer BANKPRT1: class(es) "A" 11:35:25
+120227 11352570       2660 BANKDEMO CASFC0009I User (CICSUSER) requested (OPEN)  on file (BNKCUST) group (BANKFIL2) from Tran (Unknown) Program (Unknown) Terminal (Unknown). 11:35:25
+120227 11352571       3116 BANKDEMO CASBJ0020I Batch printer initialization started 11:35:25
+120227 11352572                     CASCD1060I JES Initiator created for Server BANKDEMO, process-id = 1040 11:35:25
+120227 11352596       2660 BANKDEMO CASFC0009I User (CICSUSER) requested (OPEN)  on file (BNKACC) group (BANKFIL2) from Tran (Unknown) Program (Unknown) Terminal (Unknown). 11:35:25
+120227 11352599       1928 BANKDEMO CASBJ0023I Batch initiator INITA: class(es) "A" 11:35:25
+120227 11352620       2660 BANKDEMO CASFC0009I User (CICSUSER) requested (OPEN)  on file (BNKHELP) group (BANKFIL2) from Tran (Unknown) Program (Unknown) Terminal (Unknown). 11:35:26
+120227 11352620       1040 BANKDEMO CASBJ0006I Batch initiator initialization started 11:35:26
+120227 11352621                     CASCD1071I Administration SEP created for Server BANKDEMO, process-id = 600 11:35:26
+120227 11352645       2660 BANKDEMO JES000042I SSTM not enabled: CICS 11:35:26
+120227 11352667       2660 BANKDEMO CASXO0019S Switch Load Module for resource "MQSeries support" failed to load RM XA resources, returned pointer was null 11:35:26
+120227 11352675        600 BANKDEMO CASSI1500I SEP initialization started 11:35:26
+120227 11352680       2660 BANKDEMO CASXO0023S Severe error detected in "MQSeries support" XA interface, RM interface disabled 11:35:26
+120227 11352712       2660 BANKDEMO CASSI5000I PLTPI List(PI) Processing Started 11:35:26
+120227 11352752       2660 BANKDEMO CASOP0000I  From (,,PIP1) UBNKPLT1 Complete 11:35:27
+120227 11352755       2692 BANKDEMO CASCS5100I Communications Process instance 01 is ready to accept requests 11:35:27
+120227 11352781       2660 BANKDEMO CASOP0000I  From (,,PIP1) UBNKPLT2 Complete 11:35:27
+120227 11352801       2660 BANKDEMO CASSI5010I PLTPI List(PI) Processing Completed 11:35:27
+120227 11352821       2660 BANKDEMO CASSI5040I Active SEP memory strategy set to x'00000001', retain count 100 11:35:28
+120227 11352842       3500 BANKDEMO CASCL0020I Printer L860 initialized successfully 11:35:28
+120227 11352843       1040 BANKDEMO CASBJ0005I Batch initiator started for job classes "A" 11:35:28
+120227 11352865       2316 BANKDEMO CASBJ0005I Batch initiator started for job classes "AB" 11:35:28
+120227 11352865        600 BANKDEMO CASSI1600I SEP initialization completed successfully 11:35:28
+120227 11352906       3384 BANKDEMO CASSI1600I SEP initialization completed successfully 11:35:29
+120227 11352907       3116 BANKDEMO CASBJ0021I Batch printer started for print output classes "A" 11:35:28
+120227 11352928       3384 BANKDEMO CASSI5020I PLTPI Phase 2 List(PI) Processing Started 11:35:29
+120227 11352928       3116 BANKDEMO JES000029I Locating batch printer: MTO-HTML 11:35:29
+120227 11352928       3384 BANKDEMO CASOP0000I  From (,,PIP2) UBNKPLT2 Complete 11:35:29
+120227 11352949       3116 BANKDEMO JES000029I Available batch printer: Send To OneNote 2010 (redirected 2) 11:35:29
+120227 11352950       3384 BANKDEMO CASSI5030I PLTPI Phase 2 List(PI) Processing Completed 11:35:29
+120227 11352950       3116 BANKDEMO JES000029I Available batch printer: PrimoPDF (redirected 2) 11:35:29
+120227 11352972       3116 BANKDEMO JES000029I Available batch printer: Microsoft XPS Document Writer (redirected 2) 11:35:29
+120227 11352992       3116 BANKDEMO JES000029I Available batch printer: Fax (redirected 2) 11:35:29
+120227 11353012       3116 BANKDEMO JES000029I Available batch printer: Marketing-RicohC312DN on nwb-vmprint (redirected 2) 11:35:29
+120227 11353032       3116 BANKDEMO JES000029I Available batch printer: HP Officejet 7300 series (redirected 2) 11:35:30
+120227 11353053       3116 BANKDEMO JES000029I Available batch printer: HP Deskjet 3050 J610 series (Copy 1) (redirected 2) 11:35:30
+120227 11353073       3116 BANKDEMO JES000029I Available batch printer: HP Deskjet 3050 J610 series (redirected 2) 11:35:30
+120227 11353094       3116 BANKDEMO JES000029I Available batch printer: Microsoft XPS Document Writer 11:35:30
+120227 11353114       3116 BANKDEMO JES000029I Available batch printer: Fax 11:35:30
+120227 11353134       3116 BANKDEMO JES000024I Batch Printer: MTO-HTML 11:35:31
+120227 11353154       3116 BANKDEMO JES000026I Exit Module: ZBNKPRNX 11:35:31
+120227 11353175       3116 BANKDEMO CASBJ0041E Printer JES interface initialization failed. RC= 00020 11:35:31
+120227 11353195       3116 BANKDEMO CASBJ0034I Printer process shutdown complete. 11:35:31
+120227 11353217                     CASCD1054I JES Printer for Server BANKDEMO has terminated normally 11:35:32
+120227 11353235       3384 BANKDEMO CASOP0000I 01 of 02 From (,,CSOC) EZY1230E 02/27/12 11:35:32 CICS APPLID NOT ON CONFIGURATION FILE.  11:35:32
+120227 11353236       2704 BANKDEMO CASSP0002I Server manager informed of process termination, pinfo =  Q,0000003116 11:35:32
+120227 11353236       3384 BANKDEMO CASOP0000I 02 of 02 From (,,CSOC) RESP:     RESP2:                                                   11:35:32
+120227 11375741        580 BANKDEMO CASST0005I Shutdown of ES BANKDEMO starting 11:37:57
+120227 11375763       2660 BANKDEMO CASST5020I PLTSD Phase 2 List(SD) Processing Started 11:37:57
+120227 11375765       1040 BANKDEMO CASBJ0009I Batch initiator shutdown complete. 11:37:57
+120227 11375765       2316 BANKDEMO CASBJ0009I Batch initiator shutdown complete. 11:37:57
+120227 11375766        600 BANKDEMO CASKC0003I SEP 0000000600 shutdown complete. 11:37:57
+120227 11375766       3384 BANKDEMO CASSI8003I Enterprise Server "BANKDEMO" termination completed 11:37:57
+120227 11375767       2660 BANKDEMO CASST5030I PLTSD Phase 2 List(SD) Processing Completed 11:37:57
+120227 11375776                     CASCD1052I JES Initiator for Server BANKDEMO has terminated normally 11:37:57
+120227 11375778                     CASCD1072I Administration SEP for Server BANKDEMO has terminated normally 11:37:57
+120227 11375780                     CASCD1052I JES Initiator for Server BANKDEMO has terminated normally 11:37:57
+120227 11375789       2660 BANKDEMO CASKC0003I SEP 0000002660 shutdown complete. 11:37:57
+120227 11375824                     CASCD0131I SEP 00002 for server BANKDEMO has terminated normally 11:37:58
+120227 11375836       3956 BANKDEMO CASSP0002I Server manager informed of process termination, pinfo =  B,0000001040 11:37:58
+120227 11375837        836 BANKDEMO CASSP0002I Server manager informed of process termination, pinfo =  B,0000002316 11:37:58
+120227 11375840       1760 BANKDEMO CASSP0002I Server manager informed of process termination, pinfo =  I,0000000600 11:37:58
+120227 11375862       2556 BANKDEMO CASSP0002I Server manager informed of process termination, pinfo =  S,0000002660 11:37:58
+120227 11375864                     CASCD0132I 3270 printer service for server BANKDEMO has terminated normally 11:37:58
+120227 11375883       3288 BANKDEMO CASSP0002I Server manager informed of process termination, pinfo =  P,0000003500 11:37:58
+120227 11375988       3384 BANKDEMO CASST5000I PLTSD List(SD) Processing Started 11:37:59
+120227 11380009       3384 BANKDEMO CASOP0000I 01 of 02 From (,,CSOC,SDP1) EZY1230E 02/27/12 11:38:00 CICS APPLID NOT ON CONFIGURATION FILE.  11:37:59
+120227 11380031       3384 BANKDEMO CASOP0000I 02 of 02 From (,,CSOC,SDP1) RESP:     RESP2:                                                   11:38:00
+120227 11380051       3384 BANKDEMO CASST5010I PLTSD List(SD) Processing Completed 11:38:00
+120227 11380071       3384 BANKDEMO CASKC0003I SEP 0000003384 shutdown complete. 11:38:00
+120227 11380091       1928 BANKDEMO CASKC1002I ES allocated license limit: 0000000010 units, peak usage: 0000000001 units 11:38:00
+120227 11380094                     CASCD0131I SEP 00001 for server BANKDEMO has terminated normally 11:38:00
+120227 11380132       1556 BANKDEMO CASSP0002I Server manager informed of process termination, pinfo =  S,0000003384 11:38:01
+120227 11380132       1928 BANKDEMO CASST0000I Server manager termination started 11:38:01
+120227 11380174       2692 BANKDEMO CASCS5007I Communications interface 01 termination started 11:38:01
+120227 11380241       2692 BANKDEMO CASCS5008I Communications interface 01 termination complete 11:38:02
+120227 11380751                     CASCD1039I ES Communications Server for ES BANKDEMO has terminated normally 11:38:07
+120227 11380943       2732 BANKDEMO CASTS0003I ES TSC Service Process termination started 11:38:08
+120227 11381144       1928 BANKDEMO CASST0001I Server manager termination completed successfully 11:38:10
+120227 11381145       2732 BANKDEMO CASTS0005I ES TSC Service Process termination complete 11:38:10
+120227 11381170                     CASCD0130I Server manager BANKDEMO has terminated normally 11:38:11
+120227 11381170                     CASCD0139I ES Daemon auto-shutdown started 11:38:11
+120227 11381186                     CASCD0101I ES Daemon Terminated 11:38:11
+120227 11381186                     CASCD0174I ES Console process termination control thread exited 11:38:11

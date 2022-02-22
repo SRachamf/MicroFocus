@@ -1,0 +1,32 @@
+     *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+     *-*-*  Micro Focus ESJCL  EBCDIC JES2 Version ED7.0_PU2E                                  *-*-*
+     *-*-*  Copyright (C) Micro Focus 1997-2020. All rights reserved.                          *-*-*
+     *-*-*  Job: 0001000 Name: MFIDEMO  User: JESUSER  Date: 02/11/22 Time: 15:58:30           *-*-*
+     *-*-*  File: $TXRFDIR/T000000015.T                                                        *-*-*
+     *-*-*  DSN:                                                                               *-*-*
+     *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+   1 //MFIDEMO  JOB MFIDEMO,MFIDEMO,CLASS=A,MSGCLASS=A,MSGLEVEL=(2,0),       00000100
+   2 //  NOTIFY=MFIDEMO                                                      00000200
+   3 //EXTRACT  EXEC YBNKEXTV,REQUEST=B0004                                  00000300
+   4 //*XTRACT.SYSOUT DD DUMMY                                               00000400
+   5 //SORT     EXEC YBNKSRT1,GEN='+1'                                       00000500
+   6 //*ORT.SYSOUT DD DUMMY                                                  00000600
+   7 //PRINT    EXEC YBNKPRT1,GEN='+1',SOUT=A                                00000700
+   8 //*                                                                     00000800
+   9 //* *** $ Version 5.99c sequenced on Wednesday 3 Mar 2011 at 1:00pm     00000900
+**** JCLCM0180I Job ready for execution.
+**** Execution on Server BANKDEMO  Process       1116
+
+     2022-02-11
+     15:58:30 JCLCM0188I JOB  STARTED
+
+     15:58:30 JCLCM0190I STEP STARTED   EXTRACT.EXTRACT
+**** 15:58:30 JCLCM0193U PROGRAM NOT LOADED - ZBNKEXT1. RTS CODE: 173
+==>> 15:58:30 JCLCM0192S STEP ABENDED   EXTRACT.EXTRACT - COND CODE S806
+
+---> 15:58:30 JCLCM0189I STEP BYPASSED  SORT.SORT
+
+---> 15:58:30 JCLCM0189I STEP BYPASSED  PRINT.PRINT
+
+==>> 15:58:30 JCLCM0181S JOB  ABENDED - COND CODE S806

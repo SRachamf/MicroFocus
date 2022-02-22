@@ -1,0 +1,36 @@
+#"C:\Program Files (x86)\Micro Focus\Enterprise Developer\bin\cobol.exe" "C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\ZBNKPRT1.cbl" DELINT USEC:\Users\System\loadlib\mfant809671945265904384.dir ;
+^"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\ZBNKPRT1.cbl"
+!"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CBANKXT1.cpy"
+?"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CBANKXT1.cpy"
+!"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CBANKXT1.cbl"
+?"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CBANKXT1.cbl"
+!$COBCPY\CBANKXT1.cpy
++"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\copybook\CBANKXT1.cpy"
+-"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\copybook\CBANKXT1.cpy"
+!"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CTIMERD.cpy"
+?"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CTIMERD.cpy"
+!"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CTIMERD.cbl"
+?"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CTIMERD.cbl"
+!$COBCPY\CTIMERD.cpy
++"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\copybook\CTIMERD.cpy"
+-"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\copybook\CTIMERD.cpy"
+!"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CDATED.cpy"
+?"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CDATED.cpy"
+!"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CDATED.cbl"
+?"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CDATED.cbl"
+!$COBCPY\CDATED.cpy
++"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\copybook\CDATED.cpy"
+-"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\copybook\CDATED.cpy"
+!"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CSTATESD.cpy"
+?"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CSTATESD.cpy"
+!"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CSTATESD.cbl"
+?"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CSTATESD.cbl"
+!$COBCPY\CSTATESD.cpy
++"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\copybook\CSTATESD.cpy"
+-"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\copybook\CSTATESD.cpy"
+!"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CABENDD.cpy"
+?"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CABENDD.cpy"
+!"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CABENDD.cbl"
+?"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\cbl\CABENDD.cbl"
+!$COBCPY\CABENDD.cpy
++"C:\Users\Public\Documents\Micro Focus\Enterprise Developer\Samples\Mainframe\BankDemo\MFETDUSER\BankDemo\Sources\copybook\CABENDD.cpy"
