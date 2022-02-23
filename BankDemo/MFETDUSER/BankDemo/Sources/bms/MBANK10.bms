@@ -6,7 +6,7 @@
 *   distributed as part of your application provided that             * 00000600
 *   you properly acknowledge the copyright of Micro Focus             * 00000700
 *   in this material.                                                 * 00000800
-*   SRACHA test3                                                      * 00000900
+*   SRACHA test4                                                      * 00000900
 *********************************************************************** 00001000
 MBANK10 DFHMSD BASE=MAPAREA,                                           -00001100
                LANG=COBOL,                                             -00001200
