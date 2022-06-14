@@ -60,7 +60,7 @@ TXT03   DFHMDF ATTRB=(ASKIP,NORM),                                     -00005900
                COLOR=TURQUOISE,                                        -00006000
                LENGTH=78,                                              -00006100
                POS=(4,1),                                              -00006200
-               INITIAL='Hello   to Micro Focus'' demonstration system b-00006300
+               INITIAL='Hello>  to Micro Focus'' demonstration system b-00006300
                ased on a mythical bank.        '                        00006400
 TXT04   DFHMDF ATTRB=(ASKIP,NORM),                                     -00006500
                COLOR=TURQUOISE,                                        -00006600
